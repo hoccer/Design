@@ -1,6 +1,6 @@
 # Design
 
-This repository contains .psd files for the Hoccer XO [Android](https://github.com/hoccer/hoccer-talk-spike) and [iOS](https://github.com/hoccer/hoccer-xo-iphone) clients. The .psd files don’t represent the current status of the clients.
+This repository contains .psd files for the Hoccer XO Android and iOS clients. The .psd files don’t represent the current status of the clients.
 
 _**Info:** The .psd files also contain unplanned features and changes!_
 
