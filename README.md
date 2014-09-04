@@ -12,18 +12,18 @@ _**Info:** They don't provide any interaction or flow instructions!_
 
 ### Android
 
-![android-keyscreens-map]()
+![android-keyscreens-map](https://raw.githubusercontent.com/hoccer/Design/master/android-keyscreens-map.png)
 
 ### iOS
 
-![iOS-keyscreens-map]()
+![iOS-keyscreens-map](https://raw.githubusercontent.com/hoccer/Design/master/ios-keyscreens-map.png)
 
 ## Animations
 
-![locate]()
+![locate](https://raw.githubusercontent.com/hoccer/Design/master/android/animation/locate.gif)
 
 _(looking for contacts nearby)_
 
-![playing]()
+![playing](https://raw.githubusercontent.com/hoccer/Design/master/ios/animation/audio-playing-icon@2x.gif)
 
 _(current playing track)_
