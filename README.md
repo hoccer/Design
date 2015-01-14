@@ -12,11 +12,11 @@ _**Info:** They don't provide any interaction or flow instructions!_
 
 ### Android
 
-![android-keyscreens-map](https://raw.githubusercontent.com/hoccer/Design/master/android-keyscreens-map.png)
+![android-keyscreens](https://raw.githubusercontent.com/hoccer/Design/master/android-keyscreens.png)
 
 ### iOS
 
-![iOS-keyscreens-map](https://raw.githubusercontent.com/hoccer/Design/master/ios-keyscreens-map.png)
+![iOS-keyscreens](https://raw.githubusercontent.com/hoccer/Design/master/ios-keyscreens.png)
 
 ## Animations
 
